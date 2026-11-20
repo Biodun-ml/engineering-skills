@@ -195,8 +195,8 @@ tools, choosing a model, cutting LLM cost, or asking "is this output good enough
   untrusted content + an outbound channel. Sandbox agents, allow-list egress, scope credentials, keep secrets in the harness
   (never the prompt), log model calls through a redacting gateway, and firewall destructive
   commands. Treat MCP tool descriptions and outputs from third-party servers as untrusted too,
-  and pin the servers you use (current practice; not from the talks). *(Patterson; Kumar)*
-  *(Karpathy; Michael Patterson — Lethal Trifecta, restated per Simon Willison)*
+  and pin the servers you use (that last point is current practice, not from the talks).
+  *(Karpathy; Michael Patterson — Lethal Trifecta, restated per Simon Willison; Tejas Kumar)*
 
 ### Cost and models
 - **Report cost and latency next to accuracy and choose from the Pareto frontier.** A model with
