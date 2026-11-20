@@ -18,8 +18,9 @@ cited notes for every video (paraphrased, with numbers, mechanisms and teacher c
    block, then one section per video ending in "Relevance to Sam" (Sam's context: travel-tech
    supplier integrations such as Viator/RateHawk, booking flows, multi-million-row location
    pipelines on a 16 GB laptop). Use those sections only when the task is in that context.
-   If it isn't there, work from this file and ask the user for the notes pack
-   (`backend-first-principles-full.zip`) when you need a teacher's detailed treatment.
+   If it isn't there, the full notes live in the user's private GitHub repo
+   `Biodun-ml/engineering-skills` (folder `backend-first-principles/references/`); clone it when
+   you need a teacher's detailed treatment.
 4. Explain the *why* to the user: name the underlying constraint (physics, failure, concurrency,
    durability) rather than citing a rule. When you use a specific idea from the notes, mention
    which teacher it came from so the user can go back to the video.

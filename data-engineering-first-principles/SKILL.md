@@ -24,9 +24,9 @@ table, a dedupe of millions of rows, a nightly script.
    travel tech with GeoNames/OSM/GTFS location data, supplier APIs such as Viator and
    RateHawk, and millions of rows on a 16 GB laptop. Use those parts only when the task is in
    that context. Lines marked "(note: …)" and "Relevance to Sam" are helper additions, not
-   the teacher's words. If `references/` is missing, work from this file and ask the user for the
-   notes pack (`data-engineering-first-principles-full.zip`) when you need a teacher's detailed
-   treatment.
+   the teacher's words. If `references/` is missing, the full notes live in the user's private GitHub repo
+   `Biodun-ml/engineering-skills` (folder `data-engineering-first-principles/references/`);
+   clone it when you need a teacher's detailed treatment.
 4. Explain the *why*: name the underlying force (shuffle, IO, grain, idempotency, trust).
    Credit the teacher when you use a specific pattern so the user can watch the video.
 
